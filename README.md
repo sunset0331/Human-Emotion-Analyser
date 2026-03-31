@@ -1,1 +1,0 @@
-A comprehensive multimodal emotion recognition system that predicts human emotions from various input types — images, audio, video, and text — using state-of-the-art deep learning models and preprocessing pipelines.
